@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111111;
+}
+#name {background-color: blue;}
+img {
+float: left;}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="#home" id="name">Allison Lee</a></li>
+  <li><a href="#news">Work</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+<p>
+<div>June 21, 2017</div>
+<div>CORE4</div>
+<br/> 
+<div>I learned about CORE4: conditionals, loops, variables, and functions.</div>
+<br/>
+<div>Conditional: <br/>In computer science, conditional statements, conditional expressions and conditional constructs are features of a programming language, which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false.</div> 
+<img src=http://cdn.guru99.com/images/7-2015/071515_0847_IfLoopPytho1.png width=300>
+<img src=https://forrestercomputing.wikispaces.com/file/view/Scratch_If_Then_Else.jpg/331027226/Scratch_If_Then_Else.jpg width=300>
+</p>
+
+
+</body>
+</html>
